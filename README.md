@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&height=50&lines=Hi!+%2C+I'm+Madison!)](https://git.io/typing-svg)
 
-Welcome! I'm a developer focused on crafting meaningful solutions through code. Explore my repositories to see what I'm working on
-
 - 🌎 Houston, TX
 - 🎓 University of Houston: BAS Computer Science
 - 💼 Control Risks @ Meta: Data Analyst
 - 💻 Hacking since 2020
+
+Welcome! I'm a developer focused on crafting meaningful solutions through code. Explore my repositories to see what I'm working on
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MEmshousen&theme=github_dark&show_icons=true&show=prs_merged)](https://github.com/MEmshousen)&nbsp;&nbsp;&nbsp;&nbsp;
