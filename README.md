@@ -5,6 +5,7 @@
 - 💼 Control Risks @ Meta: Data Analyst
 - 💻 Hacking since 2020
 
+
 Welcome! I'm a developer focused on crafting meaningful solutions through code. Explore my repositories to see what I'm working on
 
 ## Stats
